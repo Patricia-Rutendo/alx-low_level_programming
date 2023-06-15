@@ -4,7 +4,7 @@
  * str_concat - gets ends of input and adds together for size
  * @str1: input one to be concatenated
  * @str2: input two to be concatenated
- * Return: concat of str1 and str2
+ * Return: concatenate of str1 and str2
  */
 char *str_concat(char *str1, char *str2)
 {
